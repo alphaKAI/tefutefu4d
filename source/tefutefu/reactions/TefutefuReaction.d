@@ -11,7 +11,7 @@ public abstract class TefutefuReaction : TefutefuMessageQueues!Status {
   public string reactionName;
   public TefutefuReactionTypes type;
   public bool fallthrough = true;
-  public bool limited     = true;
+  public bool limited     = false;
   public TefutefuReactionTypes[] fallthroughList = [];
   public Importance importance = Importance.MID;
   public bool hasAfterProcess = false;
