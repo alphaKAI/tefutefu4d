@@ -1,0 +1,12 @@
+{
+	"name": "tefutefu4d",
+	"authors": [
+		"alphaKAI"
+	],
+	"dependencies": {
+		"twitter4d": "~>0.0.65"
+	},
+	"description": "The fourth Generation of Tefutefu in D",
+	"copyright": "Copyright (c) 2016, alphaKAI http://alpha-kai-net.info",
+	"license": "MIT"
+}
